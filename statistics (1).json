@@ -1,0 +1,11 @@
+{
+  "highestMonth": {
+    "month": "2024-02",
+    "usage": 24.32
+  },
+  "lowestMonth": {
+    "month": "2024-06",
+    "usage": 1.2
+  },
+  "averageUsage": 6.77
+}
